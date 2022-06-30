@@ -29,9 +29,11 @@ body{
 }
 
 .first-section{
-    padding-top: 20px;
+    padding-top: 80px;
     background-color: #1F2937;
     display: flex;
+    align-items: center;
+    justify-content:space-evenly;
 }
 
 .logo{
@@ -60,6 +62,10 @@ body{
 .image-placeholder{
     color:white;
     background-color: gray;
-    padding: 50px;
+    padding: 70px 50px 70px 50px;
 }
 
+
+.left-first{
+    max-width: 500px;
+}
